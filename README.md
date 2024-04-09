@@ -4,3 +4,4 @@ Es un juego al más puro estilo The Binding of Isaac. Mazmorras aleatorias donde
 
 Está en desarrollo.
 
+Versión de Unity: 2022.3.9f1
